@@ -30,7 +30,9 @@ $ node index.js
 PDFs files created by the script will be stored inside "pdfs" folder in the project's root.
 
 ## Contact
-**Email: regisprogramming@gmail.com** 
+**Email: regisprogramming@gmail.com**
+
+
 [LinkedIn](https://www.linkedin.com/in/regissfaria/), [GitHub](https://github.com/regisfaria) and [GitLab](https://gitlab.com/regisfaria) profiles
 
 
