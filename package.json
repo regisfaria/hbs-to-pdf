@@ -1,0 +1,12 @@
+{
+  "name": "hbs_to_pdf",
+  "version": "1.0.0",
+  "description": "transform hbs file into pdf file",
+  "main": "index.js",
+  "author": "Regis Faria",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "handlebars-pdf": "^1.0.1"
+  }
+}
